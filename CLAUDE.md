@@ -62,3 +62,13 @@ These are defaults. On content-craft questions, MinoAI Frontier's guidance wins 
 - Her Content OS lives in Notion (**ucla** workspace), reached in claude.ai through **Composio** (account `ucla-notion`), not the native Notion connector (that one is on her Bruin Ventures workspace). Claude Code won't have these connectors by default; if a task needs Notion/Drive/Calendar, ask her to paste content or set up an MCP server. See `docs/notion-content-os.md`.
 - Two scheduled tasks already run from claude.ai (nightly sort, Sunday reset). Don't duplicate them here.
 - When anything in this repo becomes stale (a reel posts, a series changes), update the relevant doc.
+
+## Git sync (laptop and phone)
+
+This repo is on GitHub (`doubledurians/content-os`, private) so she can work from her phone in cloud sessions. She's the only person working in it, so everything goes straight to `main`:
+
+- **Start of every session:** run `git pull origin main` before reading or editing any doc.
+- **End of every session that changed a file:** commit with a short message and run `git push origin main`. Don't leave changes on a side branch.
+- **If pushing to `main` is blocked** (cloud sessions may only be allowed to push their own branch): push the branch, and tell her it still needs merging into `main`.
+- **If the pull hits a conflict:** keep both versions' content and never drop her edits. If it isn't obvious how to combine them, ask her.
+- The scheduled task file lives in `~/.claude/scheduled-tasks/` on her laptop, not in this repo.
