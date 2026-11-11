@@ -14,7 +14,7 @@ Hidden psychology/cognitive tricks inside tech products.
 
 ### Startup Picks (YC Spring 2026 consumer startups)
 Shortlisted 3 she'd most want to use. Part 1 (HeyClicky) posted. Part 2: Wispr Flow (+ one more).
-- **Wispr Flow status (2026-11-11):** filmed (raw in Drive "Raw Reel Footage/Wispr Flow", 11 clips). Demo cut v1 made (52 s, no captions/music): debate context (0147) → intro (0149) → dictation demo (0152) → grammar fix (0154) → "heading to class" outro (0155). Cut: monitor tangent (0148), duplicate demo takes (0150, 0151), "started using it a while ago" take (0153), bank-run questions (0157). Next: her review, then hook pass and captions.
+- **Wispr Flow status (2026-11-11):** filmed (raw in Drive "Raw Reel Footage/Wispr Flow", 11 clips). Demo cut v1 made (52 s, no captions/music): debate context (0147) → intro (0149) → dictation demo (0152) → grammar fix (0154) → "heading to class" outro (0155). Cut: monitor tangent (0148), duplicate demo takes (0150, 0151), "started using it a while ago" take (0153), bank-run questions (0157). v2 (same day): opens on talking head (0149) then context (0147); demo (0152) shifted up so fingers on Ctrl+Win clear the bottom UI zone (no take has them clear naturally; reshoot with phone tilted down if it matters); HDR conversion switched to a more natural one (v1's looked smoothed). Voiceover fillers suggested at 0:09, 0:38, 0:46. Next: her review, VO, hook pass, captions.
 
 ### Science Deep Dives
 - **Optogenetics** Part 1 (what it is) and Part 2 (applications and hurdles) both posted.
