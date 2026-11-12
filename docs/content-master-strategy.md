@@ -205,3 +205,16 @@ Offered as options. Script stays hers.
 3. Pause Startup Picks until 10k?
 4. Verify the social proof bank (especially the published study wording and how to describe SquadUp).
 5. Pick 2 signature elements to test for the next 5 reels.
+
+---
+
+## Current focus: psych in tech (Nov 12 to Dec 12, 2026)
+
+Committed 2026-11-12 (also on the Notion page). The follow promise stays as locked; this changes the mix and the pitch, not the promise. Full detail and the drift check live in "Current focus" in `strategy.md`.
+
+- **Lane:** the psychology of the tech you use.
+- **Mix:** at least half of reels use a tech lens; the rest stay brain-first "caught in the act" reels.
+- **Shape that works:** open on the viewer's brain or on her, not on a product.
+- **References:** [@brandonsbrainwave](https://www.instagram.com/reel/Dfk395RtjDE/) (student credential), [@peterhmcginnes](https://www.instagram.com/reel/De9b0IJBuVB/) (participatory tests), [@bitterbuilds](https://www.instagram.com/reel/Dd1tTlmJu8b/) (hook mechanics), translated for Gen Z girls.
+- **Bio / pitch line to test:** `cog sci @ UCLA | the psychology behind the tech you use`
+- **Judge it on Dec 12:** follows per reel, tech-lens vs brain-first. First test reel: floppy disk / save icon (filmed Nov 11).
