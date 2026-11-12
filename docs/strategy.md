@@ -38,10 +38,20 @@ Alternatives considered: "applied cognitive science" (more credible, less search
 - Nov: built Notion Content OS with automations (see `notion-content-os.md`).
 - Nov: overall learning: insert part of herself into each video so it isn't preachy.
 - 2026-11-10: drafted Content Master Strategy v1 with MinoAI Frontier (repo + Notion). IVP locked same day (younger me, sophomore year 2025-26); follow promise locked as "Follow me and you'll stop getting played by your own brain, and learn how to make it work for you."; Startup Picks pause still open.
+- 2026-11-12: **committed to "psych in tech" as the brand direction for one month (2026-11-12 to 2026-12-12).** Lane: the psychology of the tech you use. The follow promise stays as locked; this changes the mix and the pitch, not the promise. See "Current focus" below.
+
+## Current focus: psych in tech (2026-11-12 to 2026-12-12)
+
+- **Mix:** at least half of reels use a tech lens (apps, icons, AI, product design, You Got Played, tools that work with your brain). The rest stay brain-first "caught in the act" reels.
+- **Shape that works:** open on the viewer's brain or on her, not on a product ("do this with me right now" tests, icon quizzes). Product-first openings underperformed (HeyClicky 0.4x, YGP Ep 1 0.6x).
+- **Voice and references:** student credential up front (@brandonsbrainwave style), participatory tests (@peterhmcginnes style), hook mechanics from @bitterbuilds, translated for a Gen Z girl audience (self-trust and permission, not grind).
+- **Bio / pitch line to test:** `cog sci @ UCLA | the psychology behind the tech you use`
+- **How we judge it on 2026-12-12:** follows per reel for tech-lens reels vs brain-first reels, not just views. First test reel: the floppy disk / save icon reel (filmed 2026-11-11).
+- **Drift check:** if a planned reel has no tech angle and the month's tech share is under half, flag it and suggest a tech-lens version before she films.
 
 ## Open explorations
 
-- **AI through a cog sci / human behavior lens** as a possible future niche. Fits her PM goal and YGP. Still exploring; not committed.
+- **AI through a cog sci / human behavior lens** as a possible future niche. Fits her PM goal and YGP. Now being tested as part of the psych-in-tech month (2026-11-12 to 2026-12-12).
 - How hard to lean into the startup/VC angle vs psych.
 
 ## Brand partnerships
