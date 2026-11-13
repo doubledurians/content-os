@@ -35,6 +35,9 @@ Cog sci in the wild / test-the-viewer reels. Ideas doc: Google Doc "In the Wild:
 - **How to systematically lock in (student edition)** (Idea, promoted from inbox 2026-11-10). Study theme, inspired by @nolan_killeen. Credential-stack hook over a title card; time for finals. Keep separate from the study tier-list reel.
 - **Your bad habits are asking for something (therapist exercise)** (Idea, promoted from inbox 2026-11-10). Behaviour / Impulse / Need / What helps sticky-note wall, demo first. Natural follow-up to the therapy hot take.
 
+- **You Got Played: Beli** (Idea, promoted from inbox 2026-11-12 nightly run, score 8). Why ranking restaurants is so hard to stop: head-to-head comparison works for you, leaderboard and invites play you; Curius as part 2. Viewer-test opener. Confirm neither Beli nor Curius is in the Bruin Ventures pipeline before featuring.
+- **Studying with AI without getting dumber, Ep 1: try before you ask** (Idea, promoted 2026-11-12 nightly run, score 8). First episode of the AI-offloading series below; generation effect, caught-in-the-act homework opener.
+
 - **Series idea: offloading to AI while still learning** (Idea, 2026-11-10). Short run (4-5 eps) timed for finals, sits under "make your brain work for you." Possible eps: try before you ask (generation effect), make it quiz you (retrieval practice), hints not answers, offload busywork but keep the thinking, the fluency illusion of AI summaries. Fact-check Bastani et al. (GPT Tutor vs GPT Base) and treat the MIT "Your Brain on ChatGPT" EEG study as a small preprint. Could absorb "3 things before every exam." Watch Pally sponsorship overlap.
 
 ## Schedule notes (week of Nov 10)
