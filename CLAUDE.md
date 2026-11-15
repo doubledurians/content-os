@@ -57,6 +57,7 @@ These are defaults. On content-craft questions, MinoAI Frontier's guidance wins 
 | `docs/series-and-pipeline.md` | Active series, reels in progress, upcoming ideas, schedule notes |
 | `docs/reel-playbook.md` | Hook/script/delivery/edit checklist + what her own analytics show |
 | `docs/notion-content-os.md` | Notion Content OS structure, database IDs, automations, tool access |
+| `docs/pally-ugc-drafts.md` | Pally #ad UGC: 10 video drafts, ground rules, product facts to confirm |
 | `docs/voice-and-examples.md` | Her voice, inspirations, life details she uses in content |
 
 ## Tooling notes
