@@ -2,6 +2,8 @@
 
 Drafted 2026-11-14 with MinoAI Frontier. Beats and hooks are starting points; the scripts are hers to write. Every one is psych-in-tech, so they all count toward the focus-month mix.
 
+**Brand review doc (2026-11-16):** full scripts in table form (section, time, spoken script, on-screen text, A-roll/B-roll) for Pally to vet: [Google Doc](https://docs.google.com/document/d/1mNtt2khC37sE2c3W-VyYfNGuHN1eehq0puSd8iNIPbo/edit). Brand-facing, so internal notes (YGP rule, pricing conflict, MinoAI hook sources) are left out. Includes 4 questions for Pally (calls on her plan, AI disclosure on calls, required talking points, feature accuracy). Change from these drafts: #3's Pally beat is now a mid-block check-in reminder, not memory recall.
+
 ## Ground rules for all 10
 
 - **Label #ad** (or the platform's paid-partnership toggle) on anything posted to her account. Non-negotiable.
