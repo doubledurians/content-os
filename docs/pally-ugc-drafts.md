@@ -116,6 +116,44 @@ From [Pally's official facts page](https://pally.com/ai): you text it over iMess
 
 ---
 
+## Round 2: 5 subtler ideas (2026-11-16)
+
+Pally is part of her life on screen, not the subject. Grounded in MinoAI coaching: product placement inside a skit or scene "does not feel like an ad at all" outside the one-line mention ([Coaching Call Recording 2/10](https://www.loom.com/share/2afa834283cd4dbd86fc35508aa18b98)); subtle marketing works like a movie's product placement, blended into the story ([Insights on E-commerce Strategies](https://www.loom.com/share/8dc98e2bc0a14595b0a0f24718f861a2)); documenting your day makes people "product aware" without being asked to buy ([Coaching Call 2026-06-09](https://www.loom.com/share/a806f26846d94a7c8996d3dab9aa54a4?t=3729s)). Subtle still means #ad and the paid-partnership tag. Check these don't fall short of Pally's required talking points.
+
+### 11. Day in my life, but I label every bias I catch myself in
+- **Hook** (from [@mia_yilin_](https://www.instagram.com/p/DeA2oD3prwv/): "Hi guys, welcome to a day in my life as a college student and content creator, except it's my birthday!")
+  Skeleton: "Hi guys, welcome to a day in my life as a ___, except ___."
+  Hers: "Hi guys, welcome to a day in my life as a cog sci student, except I'm calling out every time my brain plays me."
+- **Shape:** fast DITL, each scene captioned with the bias (default coffee order: default effect; "just one more episode": the end of a streak is the hardest stop; skipping the gym because it's raining: projection bias...). Pally shows up as notifications in real shots: the morning brief on her lock screen, a reminder buzzing at Powell. One spoken line at most: "and that's my assistant reminding me I said I'd start the essay at 2."
+- **Why it's subtle:** Pally is set dressing in a day viewers already want to watch.
+- **Fact-check:** pick 4-5 biases with solid sources per scene before filming.
+
+### 12. Skit: "how do you remember everyone's birthday?"
+- **Hook (hers, no close MinoAI match):** friend: "how do you remember literally everyone's birthday?" Her: "I don't. I outsourced that part of my brain."
+- **Beats:** transactive memory: couples and close friends split who remembers what, and remember more together than strangers do → we now do it with tech too → cut to her phone, a Pally text: "Maya's birthday is tomorrow, she mentioned wanting that matcha place" → friend: "that's cheating" → her: "that's cognitive science."
+- **Why it's subtle:** Pally is the punchline of a skit, which is the format MinoAI called out as not feeling like an ad.
+- **Fact-check:** Wegner (1987) on transactive memory; Wegner, Erber & Raymond (1991), real couples outperformed paired strangers. Avoid the "Google effect" (Sparrow et al. 2011); it didn't hold up well in replication. Confirm Pally's memory feature can surface this before filming.
+
+### 13. Quick test: what did you forget to do today?
+- **Hook (hers, viewer-test format):** "Quick test. Without checking anything, name one thing you were supposed to do today."
+- **Beats:** remembering to do something later is called prospective memory, and it fails constantly because nothing reminds you at the right moment → mid-sentence, her phone buzzes on camera. She reads it: "call the dentist." She laughs: "okay, that's literally what I'm talking about." → the fix is a cue at the right moment, not a better memory.
+- **Why it's subtle:** the product interrupts the video like real life. It only says "Pally" if the notification shows it.
+- **Fact-check:** Einstein & McDaniel (1990) on prospective memory; Gilbert (2015) on offloading intentions to reminders.
+
+### 14. My phone's home screen, explained by a cog sci student
+- **Hook (hers):** "Every app on my home screen is where it is for a psychological reason."
+- **Beats:** tour of her real home screen: Instagram buried in a folder on page 3 (friction), Notes in the thumb zone (easy wins), Messages dock spot: "and my texts, because half my life runs through them, including my AI assistant, Pally" (one line, keep moving) → behaviour happens when motivation, ability and a prompt line up, so she designs the prompts.
+- **Why it's subtle:** Pally is one tile in a tour. Strong psych-in-tech fit on its own.
+- **Fact-check:** Fogg Behavior Model (Fogg 2009; B=MAP). Keep friction claims general.
+
+### 15. Rating viral productivity hacks as a cog sci student
+- **Hook** (from [@hormozi](https://www.instagram.com/p/DdCY2UGBjKb/), on-screen: "$250M/YR FOUNDER RATES PRODUCTIVITY HACKS FROM 1-10")
+  Skeleton: "___ RATES PRODUCTIVITY HACKS FROM 1-10"
+  Hers: "COG SCI STUDENT RATES PRODUCTIVITY HACKS FROM 1-10"
+- **Beats:** studying with lyrics on (low: lyrics hurt reading), phone in another room (middle: the original finding is mixed in replications), brain dump before bed (high: "I just text mine to Pally and go to sleep"), Pomodoro (honest: popular, little direct research).
+- **Why it's subtle:** Pally is the way she does one hack among several, and her honest low scores make the high one believable.
+- **Fact-check:** Scullin et al. (2018), writing a to-do list before bed helped people fall asleep faster (small sample). Perham & Currie (2014) on lyrics and reading. Ward et al. (2017) "Brain drain", with mixed replications. Pomodoro: say it's underresearched.
+
 ## Clashes with earlier preferences (her call)
 
 - **#5 and #1 lean demo-first.** That matches MinoAI's UGC advice, and her own data says opening on her doing something performs best, so no clash, but keep her face in frame 1.
